@@ -1,4 +1,4 @@
-### Olá, eu sou a Priscila. Seja bem-vindes! 👋
+### Olá, eu sou a Priscila. Seja bem-vinda(o)! 👋
 
 - 🔭 Estou em busca de uma oportunidade na área.
 - 🎓 Desenvolvedora Web FullStack Java - Generation Brasil
